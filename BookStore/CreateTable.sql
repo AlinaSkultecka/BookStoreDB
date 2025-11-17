@@ -1,3 +1,5 @@
+--CREATE DATABASE BookStore;
+
 CREATE TABLE Publisher (
 	PublisherID INT IDENTITY(1,1) PRIMARY KEY,
 	Name VARCHAR (255),
