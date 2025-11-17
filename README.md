@@ -9,4 +9,4 @@ A relational SQL Server database for a multi-shop bookstore, supporting books, a
 - `MoveBook` stored procedure for transferring stock safely between shops
 
 **ER Diagram – Bookstore Database**
-<img width="2018" height="1695" alt="DB_Diagram" src="https://github.com/user-attachments/assets/c132c99d-ef23-41e9-9e75-68a27f9001d9" />
+<img width="2018" height="1695" alt="DB_Diagram" src="https://github.com/user-attachments/assets/8a7bb88b-e81c-480b-becc-5bf34d155128" />
